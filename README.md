@@ -1,5 +1,5 @@
 # Registration System (Website)
-  - This project was made for university requirements. I used PHP, HTML5, CSS, JS, and MySQL.
+  - This project was made for university requirements. It is a Registration System inspired by Minecraft's official website, made using PHP, HTML5, CSS, JS, and MySQL.
   
 > [!WARNING]
 > I made this project without prior knowledge to full stack web development.
@@ -27,7 +27,6 @@ C:\xampp\htdocs\
 
 ```
 [http://localhost/phpmyadmin](http://localhost/phpmyadmin)
-
 ````
 
 2. Create a database (Click **New**)
@@ -42,14 +41,12 @@ Open your browser and go to:
 
 ```
 [http://localhost/full-stack-project/](http://localhost/full-stack-project/)
-
 ```
 
 Or directly:
 
 ```
 [http://localhost/full-stack-project/index.php](http://localhost/full-stack-project/index.php)
-
 ```
 
 If Apache uses a different port:
