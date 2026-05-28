@@ -26,7 +26,7 @@ C:\xampp\htdocs\
 1. Open phpMyAdmin:
 
 ```
-[http://localhost/phpmyadmin](http://localhost/phpmyadmin)
+http://localhost/phpmyadmin
 ````
 
 2. Create a database (Click **New**)
@@ -40,19 +40,19 @@ C:\xampp\htdocs\
 Open your browser and go to:
 
 ```
-[http://localhost/full-stack-project/](http://localhost/full-stack-project/)
+http://localhost/full-stack-project/
 ```
 
 Or directly:
 
 ```
-[http://localhost/full-stack-project/index.php](http://localhost/full-stack-project/index.php)
+http://localhost/full-stack-project/index.php
 ```
 
 If Apache uses a different port:
 
 ```
-[http://localhost:8080/full-stack-project/](http://localhost:8080/full-stack-project/)
+http://localhost:8080/full-stack-project/
 ```
 
 ## Common Issues & Fixes
@@ -84,7 +84,3 @@ If Apache uses a different port:
 * Ensure project is inside `htdocs`
 * Check folder name spelling
 * Ensure `index.php` exists
-
-
-
-    
